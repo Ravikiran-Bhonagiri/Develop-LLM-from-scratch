@@ -5,12 +5,12 @@ Large Language Models (LLMs) have transformed the landscape of Natural Language 
 ---
 
 ## Table of Contents
-1. [Introduction to Large Language Models](#introduction-to-large-language-models)
-2. [Applications of LLMs](#applications-of-llms)
-3. [Transformer Architecture](#transformer-architecture)
-4. [Training an LLM](#training-an-llm)
-5. [Building an LLM from Scratch](#building-an-llm-from-scratch)
-6. [Key Takeaways](#key-takeaways)
+1. [Introduction to Large Language Models](#1-introduction-to-large-language-models)
+2. [Applications of LLMs](#2-applications-of-llms)
+3. [Transformer Architecture](#3-transformer-architecture-the-foundation-of-llms)
+4. [Training an LLM](#4-training-an-llm)
+5. [Building an LLM from Scratch](#5-building-an-llm-from-scratch)
+6. [Key Takeaways](#6-key-takeaways)
 
 ---
 
@@ -75,6 +75,3 @@ LLMs have revolutionized NLP, shifting from rule-based systems to flexible, deep
 
 As LLMs continue to evolve, their potential for specialized applications only grows, influencing how we interact with technology in more conversational and context-aware ways.
 
----
-
-This README provides an overview of the foundational aspects of LLMs. Writing this document allowed me to explore these concepts in greater depth, enhancing my understanding of LLMs and their impact on modern NLP.
